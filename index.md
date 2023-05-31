@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Ministry of Education Committee of Supply Debate 2023
+description: Find out more about MOE's Committee of Supply Debate 2023 announcements here!
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
