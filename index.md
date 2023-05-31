@@ -10,21 +10,19 @@ sections:
       title: Learn for Life
       subtitle: Forging Our Collective Future
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Preschool
+          description: ""
+          url: "#preschool"
+        - title: Primary to Secondary
+          description: ""
+          url: "#pritosec"
+        - title: Post-Secondary
+          description: ""
+          url: "#postsec"
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Infobar Title
+      subtitle: Preschool
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
