@@ -48,4 +48,10 @@ sections:
   - resources:
       title: Resources
       button: More
+  - infobar:
+      title: Parents & Partners
+      description: We need strong partnerships with all stakeholders, including
+        parents, community partners and agencies.
+      button: Read more
+      url: /parents
 ---
