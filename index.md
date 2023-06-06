@@ -17,6 +17,10 @@ sections:
             url: "#preschool"
           - title: Primary to Secondary
             url: "#prisec"
+          - title: Post-Secondary
+            url: "#postsec"
+          - title: Adulthood
+            url: "#adulthood"
   - infobar:
       title: Infobar Title
       subtitle: Preschool
