@@ -20,6 +20,8 @@ sections:
             url: "#postsec"
           - title: Adulthood
             url: "#adulthood"
+          - title: Parents & Partners
+            url: /parents
       background: /images/cos_microsite_banner2.jpg
   - infobar:
       title: Preschool
