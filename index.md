@@ -19,6 +19,7 @@ sections:
         - title: Post-Secondary
           description: ""
           url: "#postsec"
+      background: /images/cos_microsite_banner.jpg
   - infobar:
       title: Infobar Title
       subtitle: Preschool
