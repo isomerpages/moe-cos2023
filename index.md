@@ -23,7 +23,10 @@ sections:
             url: "#adulthood"
   - infobar:
       title: Preschool
-      description: " We start by ensuring that every child has a good start in life."
+      description: We start by ensuring that every child has a good start in life.
       button: Read more
       url: /faq/
+  - resources:
+      title: Resources
+      button: More
 ---
