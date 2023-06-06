@@ -26,12 +26,19 @@ sections:
       description: We start by ensuring that every child has a good start in life.
       button: Read more
       url: /faq/
-  - resources:
-      title: Resources
-      button: More
   - infobar:
       title: Primary to Secondary
       description: Infobar description
       button: Read more
       url: /prisec
+  - resources:
+      title: Resources
+      button: More
+  - infobar:
+      title: Post-Secondary
+      description: With Full SBB, students will study a more diverse combination of
+        subjects at different subject levels by the time they complete secondary
+        school.
+      button: Read more
+      url: /postsec
 ---
