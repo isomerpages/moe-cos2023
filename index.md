@@ -47,13 +47,13 @@ sections:
         at work.
       button: Read more
       url: /adulthood
-  - resources:
-      title: Resources
-      button: More
   - infobar:
       title: Parents & Partners
       description: We need strong partnerships with all stakeholders, including
         parents, community partners and agencies.
       button: Read more
       url: /parents
+  - resources:
+      title: Resources
+      button: More
 ---
