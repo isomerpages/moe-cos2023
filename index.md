@@ -15,6 +15,8 @@ sections:
         options:
           - title: Preschool
             url: "#preschool"
+          - title: Primary to Secondary
+            url: "#prisec"
   - infobar:
       title: Infobar Title
       subtitle: Preschool
