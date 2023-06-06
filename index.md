@@ -20,6 +20,7 @@ sections:
             url: "#postsec"
           - title: Adulthood
             url: "#adulthood"
+      background: /images/cos_microsite_banner2.jpg
   - infobar:
       title: Preschool
       description: We start by ensuring that every child has a good start in life.
