@@ -28,7 +28,7 @@ sections:
       url: /faq/
   - infobar:
       title: Primary to Secondary
-      description: Infobar description
+      description: "Full SBB: Greater customisation and flexibility in learning."
       button: Read more
       url: /prisec
   - infobar:
