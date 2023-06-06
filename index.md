@@ -10,7 +10,7 @@ sections:
       title: Learn for Life
       subtitle: Forging Our Collective Future
       dropdown:
-        title: Select theme
+        title: Select COS announcement
         options:
           - title: Preschool
             url: /preschool
