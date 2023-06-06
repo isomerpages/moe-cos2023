@@ -41,4 +41,11 @@ sections:
         school.
       button: Read more
       url: /postsec
+  - infobar:
+      title: Adulthood
+      description: MOE is committed to building a culture of lifelong learning and
+        equipping Singaporeans with the skills they need to thrive in school and
+        at work.
+      button: Read more
+      url: /adulthood
 ---
