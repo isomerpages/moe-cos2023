@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Learn for Life
       subtitle: Forging Our Collective Future
-      background: /images/cos_microsite_banner.jpg
       dropdown:
         title: Select theme
         options:
