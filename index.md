@@ -9,7 +9,6 @@ sections:
   - hero:
       title: Learn for Life
       subtitle: Forging Our Collective Future
-      background: /images/hero-banner.png
       key_highlights:
         - title: Preschool
           description: ""
