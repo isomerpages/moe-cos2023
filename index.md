@@ -31,9 +31,6 @@ sections:
       description: Infobar description
       button: Read more
       url: /prisec
-  - resources:
-      title: Resources
-      button: More
   - infobar:
       title: Post-Secondary
       description: With Full SBB, students will study a more diverse combination of
@@ -48,4 +45,7 @@ sections:
         at work.
       button: Read more
       url: /adulthood
+  - resources:
+      title: Resources
+      button: More
 ---
