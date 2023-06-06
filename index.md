@@ -29,4 +29,9 @@ sections:
   - resources:
       title: Resources
       button: More
+  - infobar:
+      title: Primary to Secondary
+      description: Infobar description
+      button: Read more
+      url: /prisec
 ---
