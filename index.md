@@ -22,9 +22,8 @@ sections:
           - title: Adulthood
             url: "#adulthood"
   - infobar:
-      title: Infobar Title
-      subtitle: Preschool
-      description: About a sentence worth of description here
-      button: Button text
+      title: Preschool
+      description: " We start by ensuring that every child has a good start in life."
+      button: Read more
       url: /faq/
 ---
