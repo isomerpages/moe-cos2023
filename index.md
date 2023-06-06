@@ -9,17 +9,12 @@ sections:
   - hero:
       title: Learn for Life
       subtitle: Forging Our Collective Future
-      key_highlights:
-        - title: Preschool
-          description: ""
-          url: "#preschool"
-        - title: Primary to Secondary
-          description: ""
-          url: "#pritosec"
-        - title: Post-Secondary
-          description: ""
-          url: "#postsec"
       background: /images/cos_microsite_banner.jpg
+      dropdown:
+        title: Select theme
+        options:
+          - title: Preschool
+            url: "#preschool"
   - infobar:
       title: Infobar Title
       subtitle: Preschool
