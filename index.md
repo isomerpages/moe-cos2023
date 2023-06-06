@@ -13,13 +13,13 @@ sections:
         title: Select theme
         options:
           - title: Preschool
-            url: "#preschool"
+            url: /preschool
           - title: Primary to Secondary
-            url: "#prisec"
+            url: /prisec
           - title: Post-Secondary
-            url: "#postsec"
+            url: /postsec
           - title: Adulthood
-            url: "#adulthood"
+            url: /adulthood
           - title: Parents & Partners
             url: /parents
       background: /images/cos_microsite_banner2.jpg
