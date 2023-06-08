@@ -56,13 +56,16 @@ sections:
       url: /postsec
       image: /images/home_postsec.png
       alt: Post-Secondary
-  - infobar:
+  - infopic:
       title: Adulthood
+      subtitle: Subtitle
       description: MOE is committed to building a culture of lifelong learning and
         equipping Singaporeans with the skills they need to thrive in school and
         at work.
-      button: Read more
+      button: Button Text
       url: /adulthood
+      image: /images/home_adulthood.png
+      alt: Adulthood
   - infobar:
       title: Parents & Partners
       description: We need strong partnerships with all stakeholders, including
