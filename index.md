@@ -34,7 +34,7 @@ sections:
       title: Preschool
       description: We start by ensuring that every child has a good start in life.
       button: Read more
-      url: /faq/
+      url: /preschool
   - infobar:
       title: Primary to Secondary
       description: "Full SBB: Greater customisation and flexibility in learning."
