@@ -1,6 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+contact_us: https://moe.gov.sg/contact-us
+show_reach: false
 social_media:
   facebook: https://www.facebook.com/moesingapore/
   twitter: https://twitter.com/MOEsg
