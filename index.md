@@ -30,16 +30,22 @@ sections:
         src="https://www.youtube.com/embed/VZKw5zdmlEM" height="315"
         width="560"></iframe>
       subtitle: Speech Highlights
-  - infobar:
+  - infopic:
       title: Preschool
+      subtitle: Subtitle
       description: We start by ensuring that every child has a good start in life.
       button: Read more
       url: /preschool
-  - infobar:
+      image: /images/home_presch.png
+      alt: Preschool
+  - infopic:
       title: Primary to Secondary
+      subtitle: Subtitle
       description: "Full SBB: Greater customisation and flexibility in learning."
       button: Read more
       url: /prisec
+      image: /images/home_prisec.png
+      alt: Primary to Secondary
   - infobar:
       title: Post-Secondary
       description: With Full SBB, students will study a more diverse combination of
@@ -65,12 +71,4 @@ sections:
       description: Read speeches, press releases and view videos for this year's COS debate.
       button: Read more
       url: /resources
-  - infopic:
-      title: Preschool
-      subtitle: Subtitle
-      description: We start by ensuring that every child has a good start in life.
-      button: Read more
-      url: /preschool
-      image: /images/home_presch.png
-      alt: Preschool
 ---
