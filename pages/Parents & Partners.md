@@ -3,7 +3,7 @@ title: Parents & Partners
 permalink: /parentspartners/
 description: ""
 ---
-#### We need strong partnerships with all stakeholders, including parents, community partners and agencies.
+#### We need strong partnerships with all stakeholders, including parents, community partners and agencies
 
 ## Partnering parents for the child’s well-being
 
