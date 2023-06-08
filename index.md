@@ -63,4 +63,5 @@ sections:
   - resources:
       title: Resources
       button: More
+      subtitle: Test
 ---
