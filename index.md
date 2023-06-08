@@ -66,12 +66,15 @@ sections:
       url: /adulthood
       image: /images/home_adulthood.png
       alt: Adulthood
-  - infobar:
+  - infopic:
       title: Parents & Partners
+      subtitle: Subtitle
       description: We need strong partnerships with all stakeholders, including
         parents, community partners and agencies.
       button: Read more
       url: /parentspartners
+      image: /images/home_parents.png
+      alt: Parents & Partners
   - infobar:
       title: Resources
       description: Read speeches, press releases and view videos for this year's COS debate.
