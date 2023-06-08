@@ -60,13 +60,14 @@ sections:
         parents, community partners and agencies.
       button: Read more
       url: /parents
+  - infobar:
+      title: Resources
+      description: Read speeches, press releases and view videos related to this
+        year's COS debate.
+      button: Read more
+      url: /resources
   - resources:
       title: Resources
       button: More
       subtitle: Test
-  - infobar:
-      title: Resources
-      description: Infobar description
-      button: Read more
-      url: /resources
 ---
