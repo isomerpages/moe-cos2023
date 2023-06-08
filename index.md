@@ -48,7 +48,7 @@ sections:
       alt: Primary to Secondary
   - infopic:
       title: Post-Secondary
-      subtitle: Infopic Subtitle
+      subtitle: Subtitle
       description: With Full SBB, students will study a more diverse combination of
         subjects at different subject levels by the time they complete secondary
         school.
