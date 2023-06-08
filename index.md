@@ -65,4 +65,12 @@ sections:
       description: Read speeches, press releases and view videos for this year's COS debate.
       button: Read more
       url: /resources
+  - infopic:
+      title: Preschool
+      subtitle: Subtitle
+      description: We start by ensuring that every child has a good start in life.
+      button: Read more
+      url: /preschool
+      image: /images/home_presch.png
+      alt: Preschool
 ---
