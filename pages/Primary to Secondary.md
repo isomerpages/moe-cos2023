@@ -3,7 +3,7 @@ title: Primary to Secondary
 permalink: /prisec/
 description: ""
 ---
-## Full SBB: Greater customisation and flexibility in learning
+### Full SBB: Greater customisation and flexibility in learning
 
 *   From the 2024 Secondary 1 cohort, Full SBB will be implemented across secondary schools
 *   Streaming will be phased out and students will start Sec 1 in one of three Posting Groups – Posting Group 1, 2, and 3
@@ -18,13 +18,13 @@ description: ""
 *   The existing JC admission criteria remains relevant and will be retained
 *   Option of fifth year for students who wish to offer G3 subjects in fifth year to pace learning remains
 
-## More meaningful partnerships between mainstream and SPED schools
+### More meaningful partnerships between mainstream and SPED schools
 
 *   Deepen partnerships between all SPED schools and selected mainstream schools under the School Partnership model
 *   This will be done by providing social interaction opportunities for students through joint CCAs, recess, workshops, and camps
 *   These partnerships help to nurture inclusivity and support SPED students in integrating into society
 
-## Improving quality of SPED education
+### Improving quality of SPED education
 
 *   Two new SPED Teaching and Learning Syllabuses to teach communication and social-emotional skills
 *   To help students live independently, learn continuously, and work productively after they leave school
