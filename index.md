@@ -66,8 +66,4 @@ sections:
         year's COS debate.
       button: Read more
       url: /resources
-  - resources:
-      title: Resources
-      button: More
-      subtitle: Test
 ---
