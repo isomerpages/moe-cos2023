@@ -1,7 +1,5 @@
 logo: /images/moe_logo.png
 links:
-  - title: Resources
-    url: /resources
   - title: Preschool
     url: /preschool
   - title: Primary to Secondary
@@ -12,3 +10,5 @@ links:
     url: /adulthood
   - title: Parents & Partners
     url: /parents-partners
+  - title: Resources
+    url: /resources
