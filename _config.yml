@@ -3,7 +3,7 @@ url: https://cos.moe.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  secondary-color: "#19c1ce"
   media-colors:
     - title: media-color-one
       color: "#49759a"
