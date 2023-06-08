@@ -3,7 +3,7 @@ title: Adulthood
 permalink: /adulthood/
 description: ""
 ---
-### MOE is committed to building a culture of lifelong learning and equipping Singaporeans with the skills they need to thrive in school and at work.
+#### MOE is committed to building a culture of lifelong learning and equipping Singaporeans with the skills they need to thrive in school and at work
 
 To this end, we need to build on partnerships with the industry, unions, community and parents.
 
