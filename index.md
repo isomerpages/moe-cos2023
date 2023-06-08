@@ -46,13 +46,16 @@ sections:
       url: /prisec
       image: /images/home_prisec.png
       alt: Primary to Secondary
-  - infobar:
+  - infopic:
       title: Post-Secondary
+      subtitle: Infopic Subtitle
       description: With Full SBB, students will study a more diverse combination of
         subjects at different subject levels by the time they complete secondary
         school.
       button: Read more
       url: /postsec
+      image: /images/home_postsec.png
+      alt: Post-Secondary
   - infobar:
       title: Adulthood
       description: MOE is committed to building a culture of lifelong learning and
