@@ -62,8 +62,7 @@ sections:
       url: /parents
   - infobar:
       title: Resources
-      description: Read speeches, press releases and view videos related to this
-        year's COS debate.
+      description: Read speeches, press releases and view videos for this year's COS debate.
       button: Read more
       url: /resources
 ---
