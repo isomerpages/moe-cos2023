@@ -24,6 +24,8 @@ sections:
             url: /parents
       background: /images/cos_microsite_banner2.jpg
   - infobar:
+      title: Minister's COS Speech
+  - infobar:
       title: Preschool
       description: We start by ensuring that every child has a good start in life.
       button: Read more
@@ -56,11 +58,4 @@ sections:
   - resources:
       title: Resources
       button: More
-  - infobar:
-      title: Minister's COS Speech
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/VZKw5zdmlEM" height="315"
-        width="560"></iframe>
 ---
