@@ -37,7 +37,6 @@ description: Resources for COS 2023
 
 #### Changes to A-Level curriculum, university admission requirements
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qLoZ9q9Pzu8" height="315" width="560"></iframe>
-https://youtu.be/
 
 #### Working with educators, parents, and partners
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/qrvIDPoUdsk" height="315" width="560"></iframe>
