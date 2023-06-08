@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Ministry of Education
 locations:
   - address:
       - 31 Sesame Street
@@ -19,13 +19,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6872 2220
+      - email: enquiries@moe.gov.sg
+      - other: <a target="_blank" href="https://www.moe.gov.sg/feedback">Feedback</a>
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
