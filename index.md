@@ -64,4 +64,9 @@ sections:
       title: Resources
       button: More
       subtitle: Test
+  - infobar:
+      title: Resources
+      description: Infobar description
+      button: Read more
+      url: /resources
 ---
