@@ -80,4 +80,12 @@ sections:
       description: Read speeches, press releases and view videos for this year's COS debate.
       button: Read more
       url: /resources
+  - infopic:
+      title: New Section
+      id: infopic
+      description: Click to explore more
+      button: Primary & Secondary
+      url: /prisec
+      image: /images/isomer-logo.svg
+      alt: testing
 ---
